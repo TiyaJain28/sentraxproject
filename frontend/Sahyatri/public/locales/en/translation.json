@@ -1,0 +1,48 @@
+{
+  "welcome_title": "Welcome to Sahyatri",
+  "access_level": "Choose your access level",
+  "select_language": "Select Language",
+  "tourist": {
+    "title": "Login as Tourist",
+    "description": "Personal safety & emergency assistance"
+  },
+  "authority": {
+    "title": "Login as Authority",
+    "description": "Police, Tourism Dept & Emergency Response"
+  },
+  "tags": {
+    "digital_id": "Maps",
+    "panic_button": "Panic Button",
+    "e-fir": "Zones",
+    "monitoring": "Monitoring"
+  },
+  "profile": {
+    "complaint": "File a Complaint",
+    "emergency_contacts": "Emergency Contacts",
+    "settings": "Notification Settings",
+    "help_support": "Help & Support",
+    "logout": "Logout"
+  },
+  "loading": "Loading...",
+  "emergency": {
+    "title": "Emergency Alert Activated!",
+    "message": "Authorities and emergency contacts have been notified.",
+    "call": "Call Emergency: 112",
+    "cancel": "Cancel Alert"
+  },
+  "alerts": {
+    "title": "Notifications",
+    "danger_title": "Safety Warning",
+    "danger_message": "You are entering a restricted high-risk zone. Please avoid this area due to danger of lions.",
+    "weather_title": "Weather Update",
+    "weather_message": "Moderate rainfall expected in the afternoon. Plan your travel accordingly.",
+    "info_title": "Event Information",
+    "info_message": "The evening light and sound show at Yodhasthal, Bhopal is scheduled for 7:15 PM today."
+  },
+  "nav": {
+    "map": "Map",
+    "alerts": "Alerts",
+    "profile": "Profile",
+    "nearby": "Nearby"
+  }
+}
